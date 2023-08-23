@@ -1,0 +1,4 @@
+.line-purple {
+    width: 100px;
+    border: 1px solid var(--bg-purple);
+}

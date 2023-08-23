@@ -1,0 +1,73 @@
+.btn-purple {
+    color: var(--bg-white);
+    background-color: var(--bg-purple);
+    outline: none;
+    box-shadow: none;
+    font-size: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+    border-radius: 8px;
+}
+.btn-purple:hover {
+    color: var(--bg-white);
+    background-color: var(--bg-purple-hover);
+    outline: none;
+    box-shadow: none;
+    font-size: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}
+
+.btn-purple-outline {
+    color: var(--bg-purple);
+    background-color: transparent;
+    outline: 2px solid var(--bg-purple);
+    box-shadow: none;
+    font-size: 1rem;
+    border-radius: 4px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}
+.btn-purple-outline:hover {
+    color: var(--bg-white);
+    background-color: var(--bg-purple);
+    border-radius: 4px;
+    outline: none;
+}
+.btn-tooltip-default {
+    width: auto;
+    height: auto;
+    color: var(--bg-purple);
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0px;
+    outline: none;
+    font-size: 1.2rem;
+}
+.btn-tooltip-default:hover {
+    width: auto;
+    height: auto;
+    color: var(--bg-purple-hover);
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0px;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+.btn-login {
+    color: var(--bg-white);
+    background-color: var(--bg-purple);
+    outline: none;
+    box-shadow: none;
+    font-size: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}
+.btn-login:hover {
+    color: var(--bg-white);
+    background-color: var(--bg-purple-hover);
+
+}
+/* font-family: 'Dosis', sans-serif;
+font-family: 'Rubik', sans-serif; */

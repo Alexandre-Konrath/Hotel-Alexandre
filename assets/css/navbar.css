@@ -1,0 +1,5 @@
+/* background navbar */
+.btn-purple {
+    color: var(--bg-whith);
+    background-color: var(--bg-purple);
+}

@@ -1,0 +1,9 @@
+.bg-color-roxo {
+    color: var(--bg-white);
+    background-color: var(--bg-purple);
+}
+
+.bg-color-red {
+    color: var(--bg-white);
+    background-color: var(--bg-red);
+}
